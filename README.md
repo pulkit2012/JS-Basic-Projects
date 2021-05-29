@@ -1,2 +1,2 @@
 <h1>JS Projects</h1>
-This repo consist of 18 basic JS projects (Currently deploying them on daily basis)
+This repo consist of 17 basic JS projects
